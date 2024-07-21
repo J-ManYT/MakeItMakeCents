@@ -1,0 +1,2 @@
+# MakeItMakeCents
+DECA Project
